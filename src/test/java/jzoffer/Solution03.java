@@ -20,6 +20,7 @@ import org.junit.Test;
 2022-07-19 21:47
 2022-07-19 22:28
 2022-07-19 22:37
+2022-07-20 00:04
  */
 public class Solution03 {
     public int findNumber(int[] input){
