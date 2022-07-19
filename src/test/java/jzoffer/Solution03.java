@@ -17,6 +17,7 @@ import org.junit.Test;
         比如0~7 大于4的应该有三个。小于4的应该有4个。如果多了证明有重复，继续使用二分即可，直到最后分完只剩一位数，但count大于1。
         时间复杂度O(nlogn) 空间复杂度O(1).
 
+2022-07-19 21:47
  */
 public class Solution03 {
     public int findNumber(int[] input){
